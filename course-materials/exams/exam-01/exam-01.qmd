@@ -1,7 +1,7 @@
 ---
 title: "SAMPLE TAKE HOME EXAM - STUDENT TEMPLATE"
-author: "[ENTER NAME HERE]"
-date: "Due: [DUE DATE HERE]"
+author: "[Walailak Wannawisitkul]"
+date: "Due: [31-oct*2024]"
 format: html
 ---
 
@@ -24,7 +24,7 @@ I, \_\_\_\_\_\_\_\_\_\_\_\_, hereby state that I have not communicated with or g
 #| message: false
 
 # load required packages here
-```
+installs.packages.
 
 ## Questions
 
